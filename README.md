@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing global health outcomes using the Wor
 
 ## Dashboard
 
-![Dashboard](health-indicator-dashboard-screenshot.png)
+![Dashboard](visualization/health-indicator-dashboard-screenshot.png)
 
 ## Objective
 
@@ -34,9 +34,9 @@ Filtering the dataset to the 217 individual economies changed the headline figur
 
 ## Files
 
-- `health-indicator-dashboard.pbix` — Power BI dashboard
-- `health-indicator-report.pdf` — written report
-- `health-indicator-dashboard-screenshot.png` — dashboard screenshot
+- `visualization/health-indicator-dashboard.pbix` — Power BI dashboard
+- `visualization/health-indicator-dashboard-screenshot.png` — dashboard screenshot
+- `reports/health-indicator-report.pdf` — written report
 
 ## Tools
 
